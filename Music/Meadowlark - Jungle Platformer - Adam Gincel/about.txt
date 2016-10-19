@@ -1,0 +1,5 @@
+Meadowlark and Warble were written for a bird-based platformer entitled 'yellowbird6' during Games++ 2015.
+
+They are percussive, jungle-esque tracks good for platformers or misc jungle levels.
+
+Made by: Adam Gincel

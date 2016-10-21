@@ -10,7 +10,7 @@ A Stevens Game Development Club asset pack -- assets made by members, for member
 ## Portraits
 Art that may not count as a sprite or a model.
 ## Substances
-Procedural materials from Substance Designer. Substances can expose parameters for easy customization at design time and runtime.
+Procedural materials made in Substance Designer. Substances can expose parameters for easy customization at design time and runtime.
 ## Code
 Code snippets or libraries usable by others for their projects.
 ### GameMaker: Studio

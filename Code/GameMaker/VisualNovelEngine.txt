@@ -1,0 +1,8 @@
+///A Visual Novel Engine written in GML for GameMaker Studio 1.4
+
+///Currently supports conversations with portraits in the left, middle, or center, plus yes/no dialogue options. 
+
+///Also text delays and color changes mid sentence.
+///It's not well documented yet. -11/13/2016
+//Find it here:
+https://github.com/agincel/VN
